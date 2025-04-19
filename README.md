@@ -42,5 +42,5 @@ It allows you to efficiently track, manage, and analyze your daily spending — 
 ### 🔧 Installation
 
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/pranav-builds/Expense_Tracker
 
